@@ -1,0 +1,41 @@
+
+  ID: {
+    type: int,
+    required: true,
+    minlength: 5
+  },
+  DEX_ID: {
+    type: int,
+    required: true,
+    minlength: 5
+  },
+  Name: {
+    type: String,
+    required: true,
+    minlength: 25
+  },
+  Stats: {
+    type: int,
+    minlength: 5
+  },
+  Xp: {
+    type: int,
+    minlength: 5
+  },
+  Weight: {
+    type: int,
+    minlength: 5
+  },
+  Weight: {
+  type: int,
+  minlength: 5
+  }
+  Weight: {
+    type: int,
+    minlength: 5
+  }
+  Weight: {
+    type: int,
+    minlength: 5
+  }
+})
